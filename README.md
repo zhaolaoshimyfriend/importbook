@@ -40,5 +40,21 @@
 2. 重要沟通记录请保存到 `05-沟通记录/对话记录/` 中
 3. 定期更新需求文档，记录变更历史
 
+## GitHub 同步
+
+本项目已初始化 Git 仓库。同步到 GitHub 的详细步骤请参考 [GITHUB_SYNC.md](./GITHUB_SYNC.md)。
+
+### 快速同步步骤
+
+1. 在 GitHub 上创建新仓库（https://github.com/new）
+2. 连接远程仓库：
+   ```bash
+   git remote add origin https://github.com/zhaolaoshi/仓库名称.git
+   ```
+3. 推送代码：
+   ```bash
+   git push -u origin main
+   ```
+
 ## 更新日志
-- 2024-XX-XX: 创建项目结构
+- 2024-XX-XX: 创建项目结构，初始化 Git 仓库
