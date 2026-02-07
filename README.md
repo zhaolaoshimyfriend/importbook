@@ -40,5 +40,9 @@
 2. 重要沟通记录请保存到 `05-沟通记录/对话记录/` 中
 3. 定期更新需求文档，记录变更历史
 
+## GitHub 仓库
+
+项目已同步到 GitHub：https://github.com/zhaolaoshimyfriend/importbook
+
 ## 更新日志
-- 2024-XX-XX: 创建项目结构
+- 2024-XX-XX: 创建项目结构，初始化 Git 仓库，同步到 GitHub
