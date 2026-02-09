@@ -1,0 +1,2497 @@
+{
+  "传统方法-完全匹配": [
+    {
+      "old_code": 1001,
+      "old_name": "库存现金",
+      "new_code": 1001,
+      "new_name": "库存现金",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1002,
+      "old_name": "银行存款",
+      "new_code": 1002,
+      "new_name": "银行存款",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1012,
+      "old_name": "其他货币资金",
+      "new_code": 1012,
+      "new_name": "其他货币资金",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1101,
+      "old_name": "短期投资",
+      "new_code": 1101,
+      "new_name": "短期投资",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1121,
+      "old_name": "应收票据",
+      "new_code": 1121,
+      "new_name": "应收票据",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1123,
+      "old_name": "预付账款",
+      "new_code": 1123,
+      "new_name": "预付账款",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1131,
+      "old_name": "应收股利",
+      "new_code": 1131,
+      "new_name": "应收股利",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1132,
+      "old_name": "应收利息",
+      "new_code": 1132,
+      "new_name": "应收利息",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1221,
+      "old_name": "其他应收款",
+      "new_code": 1221,
+      "new_name": "其他应收款",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1401,
+      "old_name": "材料采购",
+      "new_code": 1401,
+      "new_name": "材料采购",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1402,
+      "old_name": "在途物资",
+      "new_code": 1402,
+      "new_name": "在途物资",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1403,
+      "old_name": "原材料",
+      "new_code": 1403,
+      "new_name": "原材料",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1404,
+      "old_name": "材料成本差异",
+      "new_code": 1404,
+      "new_name": "材料成本差异",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1407,
+      "old_name": "商品进销差价",
+      "new_code": 1407,
+      "new_name": "商品进销差价",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1408,
+      "old_name": "委托加工物资",
+      "new_code": 1408,
+      "new_name": "委托加工物资",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1411,
+      "old_name": "周转材料",
+      "new_code": 1411,
+      "new_name": "周转材料",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1412,
+      "old_name": "包装物",
+      "new_code": 1412,
+      "new_name": "包装物",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "确认一下删除的话是否影响当前SAAS财务报表数据；不影响则删除"
+    },
+    {
+      "old_code": 1413,
+      "old_name": "低值易耗品",
+      "new_code": 1413,
+      "new_name": "低值易耗品",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "确认一下删除的话是否影响当前SAAS财务报表数据；不影响则删除"
+    },
+    {
+      "old_code": 1421,
+      "old_name": "消耗性生物资产",
+      "new_code": 1421,
+      "new_name": "消耗性生物资产",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1501,
+      "old_name": "长期债券投资",
+      "new_code": 1501,
+      "new_name": "长期债券投资",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1601,
+      "old_name": "固定资产",
+      "new_code": 1601,
+      "new_name": "固定资产",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1602,
+      "old_name": "累计折旧",
+      "new_code": 1602,
+      "new_name": "累计折旧",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1605,
+      "old_name": "工程物资",
+      "new_code": 1605,
+      "new_name": "工程物资",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1606,
+      "old_name": "固定资产清理",
+      "new_code": 1606,
+      "new_name": "固定资产清理",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1621,
+      "old_name": "生产性生物资产",
+      "new_code": 1621,
+      "new_name": "生产性生物资产",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1622,
+      "old_name": "生产性生物资产累计折旧",
+      "new_code": 1622,
+      "new_name": "生产性生物资产累计折旧",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1701,
+      "old_name": "无形资产",
+      "new_code": 1701,
+      "new_name": "无形资产",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1702,
+      "old_name": "累计摊销",
+      "new_code": 1702,
+      "new_name": "累计摊销",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1801,
+      "old_name": "长期待摊费用",
+      "new_code": 1801,
+      "new_name": "长期待摊费用",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1901,
+      "old_name": "待处理财产损溢",
+      "new_code": 1901,
+      "new_name": "待处理财产损溢",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 190101,
+      "old_name": "待处理流动资产损溢",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 190102,
+      "old_name": "待处理非流动资产损溢",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 2001,
+      "old_name": "短期借款",
+      "new_code": 2001,
+      "new_name": "短期借款",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 2201,
+      "old_name": "应付票据",
+      "new_code": 2201,
+      "new_name": "应付票据",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 2203,
+      "old_name": "预收账款",
+      "new_code": 2203,
+      "new_name": "预收账款",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 2211,
+      "old_name": "应付职工薪酬",
+      "new_code": 2211,
+      "new_name": "应付职工薪酬",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 221101,
+      "old_name": "职工工资",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 221102,
+      "old_name": "奖金、津贴和补贴",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 221103,
+      "old_name": "职工福利费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 221104,
+      "old_name": "社会保险费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 221105,
+      "old_name": "住房公积金",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 221106,
+      "old_name": "工会经费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 221107,
+      "old_name": "职工教育经费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 221108,
+      "old_name": "非货币性福利",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 221109,
+      "old_name": "辞退福利",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 2221,
+      "old_name": "应交税费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 222102,
+      "old_name": "未交增值税",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 2231,
+      "old_name": "应付利息",
+      "new_code": 2231,
+      "new_name": "应付利息",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 2232,
+      "old_name": "应付利润",
+      "new_code": 2232,
+      "new_name": "应付利润",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 2241,
+      "old_name": "其他应付款",
+      "new_code": 2241,
+      "new_name": "其他应付款",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 2401,
+      "old_name": "递延收益",
+      "new_code": 2401,
+      "new_name": "递延收益",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 2501,
+      "old_name": "长期借款",
+      "new_code": 2501,
+      "new_name": "长期借款",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 2701,
+      "old_name": "长期应付款",
+      "new_code": 2701,
+      "new_name": "长期应付款",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 3001,
+      "old_name": "实收资本",
+      "new_code": 3001,
+      "new_name": "实收资本",
+      "operation": "保持不变",
+      "category": "权益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 3002,
+      "old_name": "资本公积",
+      "new_code": 3002,
+      "new_name": "资本公积",
+      "operation": "保持不变",
+      "category": "权益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 3101,
+      "old_name": "盈余公积",
+      "new_code": 3101,
+      "new_name": "盈余公积",
+      "operation": "保持不变",
+      "category": "权益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 310103,
+      "old_name": "职工奖励及福利基金",
+      "new_code": 310101,
+      "new_name": "职工奖励及福利基金",
+      "operation": "保持不变",
+      "category": "权益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 310104,
+      "old_name": "储备基金",
+      "new_code": 310102,
+      "new_name": "储备基金",
+      "operation": "保持不变",
+      "category": "权益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 310105,
+      "old_name": "企业发展基金",
+      "new_code": 310103,
+      "new_name": "企业发展基金",
+      "operation": "保持不变",
+      "category": "权益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 310106,
+      "old_name": "利润归还投资",
+      "new_code": 310104,
+      "new_name": "利润归还投资",
+      "operation": "保持不变",
+      "category": "权益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 3104,
+      "old_name": "利润分配",
+      "new_code": 3104,
+      "new_name": "利润分配",
+      "operation": "保持不变",
+      "category": "权益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 310401,
+      "old_name": "应付利润",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "权益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 310402,
+      "old_name": "未分配利润",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "权益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 310403,
+      "old_name": "提取法定盈余公积",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "权益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 4001,
+      "old_name": "生产成本",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 400101,
+      "old_name": "基本生产成本",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 400102,
+      "old_name": "辅助生产成本",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 400103,
+      "old_name": "制造费用",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 4002,
+      "old_name": "劳务成本",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 4101,
+      "old_name": "制造费用",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 410101,
+      "old_name": "机物料消耗",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 410102,
+      "old_name": "修理费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 410103,
+      "old_name": "职工薪酬",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 410104,
+      "old_name": "折旧费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 410105,
+      "old_name": "办公费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 410106,
+      "old_name": "水电费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 410107,
+      "old_name": "停工损失",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 4301,
+      "old_name": "研发支出",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 430101,
+      "old_name": "费用化支出",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 430102,
+      "old_name": "资本化支出",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 4401,
+      "old_name": "工程施工",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 440101,
+      "old_name": "合同成本",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 440102,
+      "old_name": "间接费用",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 440103,
+      "old_name": "合同毛利",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 4403,
+      "old_name": "机械作业",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "成本",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 5001,
+      "old_name": "主营业务收入",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 5051,
+      "old_name": "其他业务收入",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 505101,
+      "old_name": "销售材料",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 505102,
+      "old_name": "出租固定资产",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 505103,
+      "old_name": "出租无形资产",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 5111,
+      "old_name": "投资收益",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 5301,
+      "old_name": "营业外收入",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 530101,
+      "old_name": "非流动资产处置净收益",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 530102,
+      "old_name": "政府补助",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 530103,
+      "old_name": "捐赠收益",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 530104,
+      "old_name": "盘盈收益",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 530105,
+      "old_name": "汇兑收益",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 530106,
+      "old_name": "出租包装物和商品的租金收入",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 530107,
+      "old_name": "逾期未退包装物押金收益",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 530108,
+      "old_name": "确实无法偿付的应付款项",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 530109,
+      "old_name": "已作坏账损失处理后又收回的应收款项",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 530110,
+      "old_name": "违约金收益",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 5401,
+      "old_name": "主营业务成本",
+      "new_code": 5401,
+      "new_name": "主营业务成本",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 5402,
+      "old_name": "其他业务成本",
+      "new_code": 5402,
+      "new_name": "其他业务成本",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 5403,
+      "old_name": "税金及附加",
+      "new_code": 5403,
+      "new_name": "税金及附加",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": "这里实际上书上是叫5403营业税金及附加，但是很多软件都是5403税金及附加，应该是营改增之后没有营业税了"
+    },
+    {
+      "old_code": 540301,
+      "old_name": "消费税",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 540302,
+      "old_name": "营业税",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 540303,
+      "old_name": "城市维护建设税",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 540304,
+      "old_name": "资源税",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 540305,
+      "old_name": "土地增值税",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 540306,
+      "old_name": "城镇土地使用税",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 540307,
+      "old_name": "房产税",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 540308,
+      "old_name": "车船税",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 540309,
+      "old_name": "印花税",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 540310,
+      "old_name": "教育费附加",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 540311,
+      "old_name": "矿产资源补偿费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 540312,
+      "old_name": "排污费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 540313,
+      "old_name": "地方教育费附加",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 5601,
+      "old_name": "销售费用",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 5602,
+      "old_name": "管理费用",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560201,
+      "old_name": "开办费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560202,
+      "old_name": "折旧费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560203,
+      "old_name": "修理费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560204,
+      "old_name": "办公费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560205,
+      "old_name": "水电费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560206,
+      "old_name": "差旅费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560207,
+      "old_name": "职工薪酬",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560208,
+      "old_name": "业务招待费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560209,
+      "old_name": "研究费用",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560210,
+      "old_name": "技术服务费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560211,
+      "old_name": "长期待摊费用摊销",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560212,
+      "old_name": "保险费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560213,
+      "old_name": "运输费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560214,
+      "old_name": "咨询费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560215,
+      "old_name": "代理费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560216,
+      "old_name": "福利费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560217,
+      "old_name": "交通费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560218,
+      "old_name": "通讯费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560219,
+      "old_name": "服务费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560220,
+      "old_name": "快递物流费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560221,
+      "old_name": "房租",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560222,
+      "old_name": "车辆使用费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560223,
+      "old_name": "物料消耗",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560224,
+      "old_name": "劳务费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 5603,
+      "old_name": "财务费用",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560301,
+      "old_name": "利息费用",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560302,
+      "old_name": "汇兑损失",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560303,
+      "old_name": "手续费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560304,
+      "old_name": "现金折扣",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 5711,
+      "old_name": "营业外支出",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 571101,
+      "old_name": "存货的盘亏、毁损、报废损失",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 571102,
+      "old_name": "非流动资产处置净损失",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 571103,
+      "old_name": "坏账损失",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 571104,
+      "old_name": "无法收回的长期债券投资损失",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 571105,
+      "old_name": "无法收回的长期股权投资损失",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 571106,
+      "old_name": "自然灾害等不可抗力因素造成的损失",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 571107,
+      "old_name": "税收滞纳金、罚金、罚款",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 571108,
+      "old_name": "被没收财物的损失",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 571109,
+      "old_name": "捐赠支出",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 571110,
+      "old_name": "赞助支出",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 5801,
+      "old_name": "所得税费用",
+      "new_code": null,
+      "new_name": "",
+      "operation": "保持不变",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    }
+  ],
+  "传统方法-编码匹配": [],
+  "传统方法-层级匹配": [
+    {
+      "old_code": 222101,
+      "old_name": "增值税",
+      "new_code": 222101,
+      "new_name": "应交增值税",
+      "operation": "修改",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": "名称应交税费-应交xxx；xxx为税费名称；例如222101名称修改“应交增值税”"
+    },
+    {
+      "old_code": 222103,
+      "old_name": "消费税",
+      "new_code": 222103,
+      "new_name": "应交消费税",
+      "operation": "修改",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": "名称应交税费-应交xxx；xxx为税费名称；例如222101名称修改“应交增值税”"
+    },
+    {
+      "old_code": 222104,
+      "old_name": "城市维护建设税",
+      "new_code": 222104,
+      "new_name": "应交城市维护建设税",
+      "operation": "修改",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": "名称应交税费-应交xxx；xxx为税费名称；例如222101名称修改“应交增值税”"
+    },
+    {
+      "old_code": 222105,
+      "old_name": "企业所得税",
+      "new_code": 222105,
+      "new_name": "应交企业所得税",
+      "operation": "修改",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": "名称应交税费-应交xxx；xxx为税费名称；例如222101名称修改“应交增值税”"
+    },
+    {
+      "old_code": 222106,
+      "old_name": "资源税",
+      "new_code": 222106,
+      "new_name": "应交资源税",
+      "operation": "修改",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": "名称应交税费-应交xxx；xxx为税费名称；例如222102名称修改“应交增值税”"
+    },
+    {
+      "old_code": 222107,
+      "old_name": "土地增值税",
+      "new_code": 222107,
+      "new_name": "应交土地增值税",
+      "operation": "修改",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": "名称应交税费-应交xxx；xxx为税费名称；例如222103名称修改“应交增值税”"
+    },
+    {
+      "old_code": 222108,
+      "old_name": "城镇土地使用税",
+      "new_code": 222108,
+      "new_name": "应交城镇土地使用税",
+      "operation": "修改",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": "名称应交税费-应交xxx；xxx为税费名称；例如222104名称修改“应交增值税”"
+    },
+    {
+      "old_code": 222109,
+      "old_name": "房产税",
+      "new_code": 222109,
+      "new_name": "应交房产税",
+      "operation": "修改",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": "名称应交税费-应交xxx；xxx为税费名称；例如222105名称修改“应交增值税”"
+    },
+    {
+      "old_code": 222110,
+      "old_name": "车船税",
+      "new_code": 222110,
+      "new_name": "应交车船税",
+      "operation": "修改",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": "名称应交税费-应交xxx；xxx为税费名称；例如222106名称修改“应交增值税”"
+    },
+    {
+      "old_code": 222111,
+      "old_name": "教育费附加",
+      "new_code": 222111,
+      "new_name": "应交个人所得税 ",
+      "operation": "修改",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": "名称应交税费-应交xxx；xxx为税费名称；例如222107名称修改“应交增值税”"
+    },
+    {
+      "old_code": 222112,
+      "old_name": "矿产资源补偿费",
+      "new_code": 222112,
+      "new_name": "",
+      "operation": "修改",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": "名称应交税费-应交xxx；xxx为税费名称；例如222108名称修改“应交增值税”"
+    },
+    {
+      "old_code": 222113,
+      "old_name": "排污费",
+      "new_code": 222113,
+      "new_name": "",
+      "operation": "修改",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": "名称应交税费-应交xxx；xxx为税费名称；例如222109名称修改“应交增值税”"
+    },
+    {
+      "old_code": 222114,
+      "old_name": "个人所得税",
+      "new_code": 222114,
+      "new_name": "",
+      "operation": "修改",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": "名称应交税费-应交xxx；xxx为税费名称；例如222110名称修改“应交增值税”"
+    },
+    {
+      "old_code": 222115,
+      "old_name": "营业税",
+      "new_code": 222115,
+      "new_name": "应交营业税 ",
+      "operation": "修改",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": "名称应交税费-应交xxx；xxx为税费名称；例如222110名称修改“应交增值税”"
+    },
+    {
+      "old_code": 222116,
+      "old_name": "地方教育费附加",
+      "new_code": 222116,
+      "new_name": "",
+      "operation": "修改",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": "名称应交税费-应交xxx；xxx为税费名称；例如222110名称修改“应交增值税”"
+    },
+    {
+      "old_code": 222117,
+      "old_name": "印花税",
+      "new_code": 222117,
+      "new_name": "应交印花税 ",
+      "operation": "修改",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": "名称应交税费-应交xxx；xxx为税费名称；例如222110名称修改“应交增值税”"
+    }
+  ],
+  "模型分析-语义匹配": [],
+  "模型分析-同义词匹配": [],
+  "其他处理-删除科目": [
+    {
+      "old_code": 1004,
+      "old_name": "备用金",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "业务反馈不常用，现在几乎没有现金了；删除这个科目后，资产负债表的“货币资金”的勾稽关系要修改的"
+    },
+    {
+      "old_code": 101201,
+      "old_name": "银行汇票",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 101202,
+      "old_name": "银行本票",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 101203,
+      "old_name": "信用卡",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 101204,
+      "old_name": "信用证保证金",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 101205,
+      "old_name": "外埠存款",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 110101,
+      "old_name": "股票",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 110102,
+      "old_name": "债券",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 110103,
+      "old_name": "基金",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 1133,
+      "old_name": "应收出口退税",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 1406,
+      "new_name": "发出商品",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "17代账默认科目有，准则并为实际说明必须有，影响资产负债表计算公式"
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 1409,
+      "new_name": "半成品",
+      "operation": "删除",
+      "category": "",
+      "auxiliary": "",
+      "remark": "17代账默认科目有，准则并为实际说明必须有，影响资产负债表计算公式"
+    },
+    {
+      "old_code": 141101,
+      "old_name": "在库",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 141102,
+      "old_name": "在用",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 141103,
+      "old_name": "摊销",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 150103,
+      "old_name": "应计利息",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 160501,
+      "old_name": "专用材料",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 160502,
+      "old_name": "专用设备",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 160503,
+      "old_name": "工器具",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 162101,
+      "old_name": "未成熟生产性生物资产",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 162102,
+      "old_name": "成熟生产性生物资产",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 310101,
+      "old_name": "法定盈余公积",
+      "new_code": 310101,
+      "new_name": "法定盈余公积",
+      "operation": "删除",
+      "category": "权益",
+      "auxiliary": "",
+      "remark": "不需要设置该明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 310102,
+      "old_name": "任意盈余公积",
+      "new_code": 310102,
+      "new_name": "任意盈余公积",
+      "operation": "删除",
+      "category": "权益",
+      "auxiliary": "",
+      "remark": "不需要设置该明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 540201,
+      "old_name": "销售材料的成本",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 540202,
+      "old_name": "出租固定资产的折旧费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 540203,
+      "old_name": "出租无形资产的摊销额",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 560101,
+      "old_name": "职工薪酬",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度；比如某个代账机构的某个公司根本不需要使用销售费用或者即便使用销售费用也不用明细科目核算那么就不要有这么多的明细科目"
+    },
+    {
+      "old_code": 560102,
+      "old_name": "商品维修费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560103,
+      "old_name": "运输费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560104,
+      "old_name": "装卸费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560105,
+      "old_name": "包装费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560106,
+      "old_name": "保险费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560107,
+      "old_name": "广告费和业务宣传费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 560108,
+      "old_name": "展览费",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 5910,
+      "old_name": "资产减值损失",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": "没有“资产减值损失”这个科目的使用场景。所有资产损失在实际发生时，都通过 “营业外支出” 科目核算"
+    },
+    {
+      "old_code": 5920,
+      "old_name": "以前年度损益调整",
+      "new_code": null,
+      "new_name": "",
+      "operation": "删除",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": "没有“以前年度损益调整”这个科目的存在必要。所有差错均在发现当期直接处理，影响当期的利润表"
+    }
+  ],
+  "其他处理-新增科目": [
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 151101,
+      "new_name": "股票投资",
+      "operation": "新增",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 151102,
+      "new_name": "其他股权投资",
+      "operation": "新增",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 160401,
+      "new_name": "建筑工程",
+      "operation": "新增",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 160402,
+      "new_name": "安装工程",
+      "operation": "新增",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 160403,
+      "new_name": "技术改造工程",
+      "operation": "新增",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 160404,
+      "new_name": "其他支出",
+      "operation": "新增",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 22210101,
+      "new_name": "进项税额",
+      "operation": "新增",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": "应交税费-应交增值税专栏科目，为之前没有的三级科目，记账过程中非常高频不可缺少"
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 22210102,
+      "new_name": "​已交税金​",
+      "operation": "新增",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 22210103,
+      "new_name": "​减免税款​",
+      "operation": "新增",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 22210104,
+      "new_name": "​出口抵减内销产品应纳税额​",
+      "operation": "新增",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 22210105,
+      "new_name": "​转出未交增值税​",
+      "operation": "新增",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 22210106,
+      "new_name": "销项税额",
+      "operation": "新增",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 22210107,
+      "new_name": "进项税额转出",
+      "operation": "新增",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 22210108,
+      "new_name": "出口退税",
+      "operation": "新增",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 22210109,
+      "new_name": "销项税额抵减",
+      "operation": "新增",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 22210110,
+      "new_name": "转出多交增值税",
+      "operation": "新增",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 222118,
+      "new_name": "简易计税",
+      "operation": "",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 222119,
+      "new_name": "增值税留抵税额",
+      "operation": "",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 222120,
+      "new_name": "代扣代交增值税",
+      "operation": "",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 222121,
+      "new_name": "转让金融商品应交增值税",
+      "operation": "",
+      "category": "负债",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 300201,
+      "new_name": "资本溢价",
+      "operation": "新增",
+      "category": "权益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 300202,
+      "new_name": "接受捐赠非现金资产准备",
+      "operation": "新增",
+      "category": "权益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 300206,
+      "new_name": "外币资本折算差额",
+      "operation": "新增",
+      "category": "权益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 300207,
+      "new_name": "其他资本公积",
+      "operation": "新增",
+      "category": "权益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 310103,
+      "new_name": "法定公益金",
+      "operation": "新增",
+      "category": "权益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 560299,
+      "new_name": "其他",
+      "operation": "新增",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": NaN,
+      "old_name": "",
+      "new_code": 560399,
+      "new_name": "其他",
+      "operation": "新增",
+      "category": "损益",
+      "auxiliary": "",
+      "remark": ""
+    }
+  ],
+  "其他处理-待讨论": [
+    {
+      "old_code": 150101,
+      "old_name": "面值",
+      "new_code": 150101,
+      "new_name": " 债券投资",
+      "operation": "修改",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 150102,
+      "old_name": "溢折价",
+      "new_code": 150102,
+      "new_name": "其他债权投资",
+      "operation": "修改",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": "不需要设置明细科目，降低导账等后续模块中科目映射的复杂度"
+    },
+    {
+      "old_code": 1511,
+      "old_name": "长期股权投资",
+      "new_code": 1511,
+      "new_name": "长期股权投资",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 1604,
+      "old_name": "在建工程",
+      "new_code": 1604,
+      "new_name": "在建工程",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "",
+      "remark": ""
+    },
+    {
+      "old_code": 3103,
+      "old_name": "本年利润",
+      "new_code": 3103,
+      "new_name": "本年利润",
+      "operation": "保持不变",
+      "category": "权益",
+      "auxiliary": "",
+      "remark": ""
+    }
+  ],
+  "其他处理-辅助核算": [
+    {
+      "old_code": 1122,
+      "old_name": "应收账款",
+      "new_code": 1122,
+      "new_name": "应收账款",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "客户",
+      "remark": ""
+    },
+    {
+      "old_code": 1405,
+      "old_name": "库存商品",
+      "new_code": 1405,
+      "new_name": "库存商品",
+      "operation": "保持不变",
+      "category": "资产",
+      "auxiliary": "存货",
+      "remark": ""
+    },
+    {
+      "old_code": 2202,
+      "old_name": "应付账款",
+      "new_code": 2202,
+      "new_name": "应付账款",
+      "operation": "保持不变",
+      "category": "负债",
+      "auxiliary": "供应商",
+      "remark": ""
+    }
+  ]
+}
