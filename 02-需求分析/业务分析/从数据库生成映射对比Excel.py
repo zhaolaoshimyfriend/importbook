@@ -9,7 +9,10 @@ import pandas as pd
 from openpyxl import load_workbook
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from openpyxl.utils import get_column_letter
-from openpyxl.data_validation import DataValidation
+try:
+    from openpyxl.worksheet.datavalidation import DataValidation
+except ImportError:
+    from openpyxl.data_validation import DataValidation
 from datetime import datetime
 import os
 
